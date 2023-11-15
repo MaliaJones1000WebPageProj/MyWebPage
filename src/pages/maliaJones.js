@@ -5,9 +5,6 @@ export default function examplePage() {
 
         <title>MaliasPage</title>
         <main>
-            <div>
-            <h1 className='title'>Hey, I'm Spider man. </h1>
-            </div>
 
             <h1>This is Malia Jones</h1>
             <div className="row">
