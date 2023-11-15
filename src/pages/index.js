@@ -28,6 +28,12 @@ export default function Home() {
             <p>Click here to navigate to an example page</p>
           </a>
 
+          <a href='/maliajones' className='card'>
+            <h3>Malia Jones</h3>
+            <p>Click here to learn more</p>
+          </a>
+
+
           {/*------------------comment using this style (cntrl+/)-----------------*/}
           {/* Commented out the other boxes so we have room to build homepage */}
           
