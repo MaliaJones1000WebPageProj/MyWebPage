@@ -45,10 +45,10 @@ export default function examplePage() {
     </style>
 
     <script>
-        var elements = maliaJones.getElementsByClassName("col");
-        for (i = 0; i<elements.length; i++){
+        {/* var elements = document.getElementsByClassName("col");
+        for (i = 0; i < elements.length; i++){
             elements[i].style.flex = "50%";
-        }
+        } */}
     </script>
 
       </div>
