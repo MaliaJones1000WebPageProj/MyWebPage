@@ -13,7 +13,7 @@ export default function examplePage() {
         />
 
         <p className='description'>
-        Bla, bla, bla
+        I am currently majoring in computer science as a freshman at CU Boulder! I hope to pursue a career in data science someday. Some things I like to do in my free time are hiking, swimming, and traveling for new experiences. 
         </p>
 
         <a className='button' href='/'>
