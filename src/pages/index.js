@@ -34,6 +34,12 @@ export default function Home() {
           </a>
 
 
+          <a href='/ShonaDoyle ' className='card'>
+            <h3>Shona Doyle</h3>
+            <p>Click here to learn more info</p>
+          </a>
+
+
           {/*------------------comment using this style (cntrl+/)-----------------*/}
           {/* Commented out the other boxes so we have room to build homepage */}
           
