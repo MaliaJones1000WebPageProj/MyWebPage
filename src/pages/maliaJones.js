@@ -1,4 +1,4 @@
-import MiddlewarePlugin from "next/dist/build/webpack/plugins/middleware-plugin";
+// import MiddlewarePlugin from "next/dist/build/webpack/plugins/middleware-plugin";
 export default function examplePage() {
     return (
       <div className='container'>
@@ -9,10 +9,10 @@ export default function examplePage() {
             <h1>This is Malia Jones</h1>
             <div className="row">
                 <div className="col">
-                    <img src="mjPics/portrait1"></img>
-                    <img src="mjPics/portrait2"></img>
-                    <img src="mjPics/outdoors"></img>
-                    <img src="mjPics/fish"></img>
+                    <img src="mjPics/portrait1.jpg"></img>
+                    <img src="mjPics/portrait2.jpg"></img>
+                    <img src="mjPics/outdoors.jpg"></img>
+                    <img src="mjPics/fish.jpg"></img>
                 </div>
             </div>
             <p>Hi there, this is the page for Malia Jones! More info will be put here in the future; just conducting tests for now.</p>
