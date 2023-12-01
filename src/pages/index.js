@@ -14,19 +14,16 @@ export default function Home() {
         <h1 className='title'>Homepage</h1>
 
         <p className='description'>
-          Already edited <code>src/pages/index.js</code> to be our home page.
+          Welcome to our website! Click on the boxes below to learn more about us.
         </p>
-        <p className='description2'>
-          Next, each team member will create their own about me file in the
-          pages directory:{' '}
-        </p>
-        <code>src/pages/teamMemberName.js</code>
 
         <div className='grid'>
+        {/*
           <a href='/TomHolland ' className='card'>
             <h3>Example About Me Page &rarr;</h3>
             <p>Click here to navigate to an example page</p>
           </a>
+        */}
 
           <a href='/maliaJones' className='card'>
             <h3>Malia Jones</h3>
