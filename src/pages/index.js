@@ -46,6 +46,11 @@ export default function Home() {
             <h3>Trisha's Page &rarr;</h3>
             <p>Click here to learn more info</p>
           </a>
+    
+      <a href='/AnikaNagpal ' className='card'>
+            <h3>Anika Nagpal</h3>
+            <p>Click here to learn more info</p>
+          </a>
   
 
 
