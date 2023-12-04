@@ -10,7 +10,7 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://i.postimg.cc/yYG2sgbX/d2807bf1-1615-4700-8622-aaead3597a65.jpg'
+            src='https://i.postimg.cc/Ss12vmsK/d2807bf1-1615-4700-8622-aaead3597a65.jpg'
             alt='Trisha Nookala'
           />
 
